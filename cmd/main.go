@@ -64,7 +64,6 @@ func main() {
 
 	log.Printf("[+] Browser decryption completed successfully!")
 
-	// Test HTTP client if requested
 
 	log.Printf("All operations completed successfully!")
 }
